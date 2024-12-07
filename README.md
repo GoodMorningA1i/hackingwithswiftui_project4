@@ -41,7 +41,7 @@ You should replace `your_username` and `project_name` respectively.
 
 ## Acknowledgements
 
-This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of SwiftUI. Part 2 introduces challenges where I made additions with my own code.
+This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of SwiftUI. Part 3 introduces challenges where I made additions with my own code.
 
 - Part 1: https://www.hackingwithswift.com/100/swiftui/26
 - Part 2: https://www.hackingwithswift.com/100/swiftui/27
